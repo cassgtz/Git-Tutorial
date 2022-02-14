@@ -150,4 +150,4 @@ Say we wanted to keep both versions. This is how we would resolve it:
 Then, commit as usual. 
 
 ## Conclusion
-This tutorial is meant to walk through the basic concepts needed to understand use Git. Git is full of many tools 
+This tutorial is meant to briefly walk through the basic concepts needed to understand and use Git. These concepts have a lot more depth and commands. Git in general is full of much more tools that are extremely useful for version control. You can find them in the [Git Documentation](https://git-scm.com/docs). 
